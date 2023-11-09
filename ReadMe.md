@@ -24,6 +24,21 @@ Dive into a world of interactive entertainment with our assortment of fun and ch
   <p align="center">Feel the love and excitement put into every line of code. Get ready for endless hours of entertainment, challenges, and smiles. Have a blast!</p>
 </p>
 
+```
+                               _.._
+                             .'    '.
+                            (____/`\ \
+                           (  |' ' )  )
+                           )  _\= _/  (
+                 __..---.(`_.'  ` \    )
+                `;-""-._(_( .      `; (
+                /       `-`'--'     ; )
+               /    /  .    ( .  ,| |(
+_.-`'---...__,'    /-,..___.-'--'_| |_)
+'-'``'-.._       ,'  |   / .........'
+          ``;--"`;   |   `-`
+             `'..__.'
+```
 
 Made with ❤️ by [**Kewwi_Ng**]   
 🌐 [**my portfolio or my website link which i don't have**]   
