@@ -9,7 +9,6 @@ Dive into a world of interactive entertainment with our assortment of fun and ch
 ## 🎯 <span style="color:orange">Features :</span> 
 - A delightful assortment of Python games
 - Each game crafted with passion and care
-- $${\color{red}Red}$$
 - Hours of entertainment for gamers of all ages
 - Easy-to-understand code for those who want to learn
 - Constantly growing collection of new games
