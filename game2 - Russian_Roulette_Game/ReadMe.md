@@ -1,6 +1,6 @@
 # 🎮 Russian Roulette Game 🎲
 <p align='center'>
-  <img src='app.png' width=480 height=360>
+  <img src=https://github.com/cuddles47/Python-Games-by-Kewwi-Ng_/blob/main/game2%20-%20Russian_Roulette_Game/assets/Delete-System32-740x691.png width=555 height=519>
 </p>
 
 ## Description
@@ -19,7 +19,7 @@ While the thrill of the game can be exciting, it's crucial to emphasize the high
 
 **Caution**: Executing such operations can lead to irreversible damage to your operating system and result in the malfunctioning of your computer. Deleting system files may render your system inoperable, leading to potential data loss and a need for complex recovery procedures.🚫
 <p align='center'>
-  <img src='app.png' width=480 height=360>
+  <img src=https://github.com/cuddles47/Python-Games-by-Kewwi-Ng_/blob/main/game2%20-%20Russian_Roulette_Game/assets/Blue-Screen-Of-Death-1024x576.jpg width=768 height=432>
 </p>
 
 ## Disclaimer 🚧
