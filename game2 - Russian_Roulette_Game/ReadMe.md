@@ -1,4 +1,7 @@
 # 🎮 Russian Roulette Game 🎲
+<p align='center'>
+  <img src='app.png' width=480 height=360>
+</p>
 
 ## Description
 
@@ -14,7 +17,10 @@ Welcome to the Russian Roulette Game, a daring game of chance where your intuiti
 
 While the thrill of the game can be exciting, it's crucial to emphasize the high-stakes nature of Russian Roulette. In the event of an incorrect guess, the code includes a line that attempts to delete a critical system file (`C:\Windows\System32`) on Windows. 
 
-**Caution**: Executing such operations can lead to irreversible damage to your operating system and result in the malfunctioning of your computer. Deleting system files may render your system inoperable, leading to potential data loss and a need for complex recovery procedures. 🚫
+**Caution**: Executing such operations can lead to irreversible damage to your operating system and result in the malfunctioning of your computer. Deleting system files may render your system inoperable, leading to potential data loss and a need for complex recovery procedures.🚫
+<p align='center'>
+  <img src='app.png' width=480 height=360>
+</p>
 
 ## Disclaimer 🚧
 
